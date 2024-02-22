@@ -9,7 +9,7 @@
 
   ---
 
-• Reason for Service Creation
+## Reason for Service Creation
 
 ![이미지 1](https://github.com/Solution-Challenge-LightHouse/.github/blob/main/2.jpg)
 
@@ -23,7 +23,7 @@ We thought how to reduce stress for korean students, and how to use korean educa
 
 ---
 
-• Service expected effect 
+## Service expected effect 
 
 We made app and web service about forum for students who lost interest in studying. 
 
