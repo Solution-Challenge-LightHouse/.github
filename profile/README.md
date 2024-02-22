@@ -1,4 +1,6 @@
-# LightHouse
+![메인 이미지](https://github.com/Solution-Challenge-LightHouse/.github/blob/main/1.jpg)
+
+#  LightHouse
 
 • Service Description
   - Lighthouse is a service consisting of a server, web, and app.
@@ -9,9 +11,9 @@
 
 • Reason for Service Creation
 
-(사진1)
+![이미지 1](https://github.com/Solution-Challenge-LightHouse/.github/blob/main/2.jpg)
 
-Korean education system is famous for its systematic      structure and high quality. 
+Korean education system is famous for its systematic structure and high quality. 
 
 Unfortunately, there is also stress on students due to the evaluation method. 
 
@@ -28,4 +30,5 @@ We made app and web service about forum for students who lost interest in studyi
 For students who have lost interest or are unable to focus on their studies, we have created a system where they earn points and raise their level by solving problems, and a platform where they can solve problems posted by schoolteachers and share and communicate with their friends. 
 
  We choose targets who is stressed by educational system. And we expect to equal access to primary education. We choose this solution based on My experience of tutoring students. 
-(사진2)
+ 
+![이미지 2](https://github.com/Solution-Challenge-LightHouse/.github/blob/main/3.jpg)
