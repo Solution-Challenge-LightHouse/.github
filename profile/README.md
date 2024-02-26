@@ -23,6 +23,10 @@ We thought how to reduce stress for korean students, and how to use korean educa
 
 ---
 
+## ⛳️ Goal
+
+![이미지 1](https://github.com/Solution-Challenge-LightHouse/.github/blob/main/4.png)
+
 ## 😊 Service expected effect 
 
 We made app and web service about forum for students who lost interest in studying. 
