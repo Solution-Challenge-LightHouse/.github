@@ -3,6 +3,7 @@
 # 💡 LightHouse
 
 • Service Description
+
   - Lighthouse is a service consisting of a server, web, and app.
   
   - The LightHouse is question bank and forum for education. We expect to easily make educational questions for Tutors, feel joy and reduce stress for Korean, International students
